@@ -18,5 +18,5 @@ The images for camera calibration are stored in the folder called `camera_cal`. 
 
 The `challenge_video.mp4` video is an extra (and optional) challenge for you if you want to test your pipeline under somewhat trickier conditions.  The `harder_challenge.mp4` video is another optional challenge and is brutal!
 
-To run this project in a colab notebook [click here](https://github.com/Nyatesi/lane-finder/blob/main/Lanes.ipynb)
+To view this project [click here](https://github.com/Nyatesi/lane-finder/blob/main/Lanes.ipynb). Once the file has opened click open in a colab notebook to run the project
 
