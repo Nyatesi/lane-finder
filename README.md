@@ -17,3 +17,6 @@ The goals / steps of this project are the following:
 The images for camera calibration are stored in the folder called `camera_cal`.  The images in `test_images` are for testing your pipeline on single frames.
 
 The `challenge_video.mp4` video is an extra (and optional) challenge for you if you want to test your pipeline under somewhat trickier conditions.  The `harder_challenge.mp4` video is another optional challenge and is brutal!
+
+To run this project in a colab notebook [click here](https://github.com/Nyatesi/lane-finder/blob/main/Lanes.ipynb)
+
